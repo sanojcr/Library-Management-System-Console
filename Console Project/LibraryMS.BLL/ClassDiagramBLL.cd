@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="LibraryMS.BLL.AdminBLL">
+    <Position X="1.25" Y="2" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>AdminBLL.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LibraryMS.BLL.BookBLL">
+    <Position X="6.75" Y="2" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAgAIAAAABCAAACAAAAAAAAAAQAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>BookBLL.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LibraryMS.BLL.UserBLL">
+    <Position X="4" Y="2" Width="2" />
+    <TypeIdentifier>
+      <HashCode>EAAAAAAAAAAEACCAAgkAAQAAAQAAEAAABAAAAAAAIAg=</HashCode>
+      <FileName>UserBLL.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

@@ -1,0 +1,11 @@
+C:\Users\ideapad\source\repos\LibraryMS.Exception\bin\Debug\LibraryMS.Exception.dll
+C:\Users\ideapad\source\repos\LibraryMS.Exception\bin\Debug\LibraryMS.Exception.pdb
+C:\Users\ideapad\source\repos\LibraryMS.Exception\obj\Debug\LibraryMS.Exception.csprojAssemblyReference.cache
+C:\Users\ideapad\source\repos\LibraryMS.Exception\obj\Debug\LibraryMS.Exception.dll
+C:\Users\ideapad\source\repos\LibraryMS.Exception\obj\Debug\LibraryMS.Exception.pdb
+C:\Users\ideapad\source\repos\LibraryMS.Exception\obj\Debug\LibraryMS.Exception.csproj.CoreCompileInputs.cache
+C:\Users\ideapad\Desktop\Team 1 Projects\Parallel Projects\Sanoj C R\Console\Console Project\LibraryMS.Exception\bin\Debug\LibraryMS.Exception.dll
+C:\Users\ideapad\Desktop\Team 1 Projects\Parallel Projects\Sanoj C R\Console\Console Project\LibraryMS.Exception\bin\Debug\LibraryMS.Exception.pdb
+C:\Users\ideapad\Desktop\Team 1 Projects\Parallel Projects\Sanoj C R\Console\Console Project\LibraryMS.Exception\obj\Debug\LibraryMS.Exception.csproj.CoreCompileInputs.cache
+C:\Users\ideapad\Desktop\Team 1 Projects\Parallel Projects\Sanoj C R\Console\Console Project\LibraryMS.Exception\obj\Debug\LibraryMS.Exception.dll
+C:\Users\ideapad\Desktop\Team 1 Projects\Parallel Projects\Sanoj C R\Console\Console Project\LibraryMS.Exception\obj\Debug\LibraryMS.Exception.pdb

@@ -1,0 +1,11 @@
+C:\Users\ideapad\source\repos\LibraryMS.Entity\bin\Debug\LibraryMS.Entity.dll
+C:\Users\ideapad\source\repos\LibraryMS.Entity\bin\Debug\LibraryMS.Entity.pdb
+C:\Users\ideapad\source\repos\LibraryMS.Entity\obj\Debug\LibraryMS.Entity.dll
+C:\Users\ideapad\source\repos\LibraryMS.Entity\obj\Debug\LibraryMS.Entity.pdb
+C:\Users\ideapad\source\repos\LibraryMS.Entity\obj\Debug\LibraryMS.Entity.csprojAssemblyReference.cache
+C:\Users\ideapad\source\repos\LibraryMS.Entity\obj\Debug\LibraryMS.Entity.csproj.CoreCompileInputs.cache
+C:\Users\ideapad\Desktop\Team 1 Projects\Parallel Projects\Sanoj C R\Console\Console Project\LibraryMS.Entity\bin\Debug\LibraryMS.Entity.dll
+C:\Users\ideapad\Desktop\Team 1 Projects\Parallel Projects\Sanoj C R\Console\Console Project\LibraryMS.Entity\bin\Debug\LibraryMS.Entity.pdb
+C:\Users\ideapad\Desktop\Team 1 Projects\Parallel Projects\Sanoj C R\Console\Console Project\LibraryMS.Entity\obj\Debug\LibraryMS.Entity.csproj.CoreCompileInputs.cache
+C:\Users\ideapad\Desktop\Team 1 Projects\Parallel Projects\Sanoj C R\Console\Console Project\LibraryMS.Entity\obj\Debug\LibraryMS.Entity.dll
+C:\Users\ideapad\Desktop\Team 1 Projects\Parallel Projects\Sanoj C R\Console\Console Project\LibraryMS.Entity\obj\Debug\LibraryMS.Entity.pdb

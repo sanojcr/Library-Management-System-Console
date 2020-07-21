@@ -1,0 +1,26 @@
+C:\Users\ideapad\source\repos\LibraryMS.BLL\bin\Debug\LibraryMS.BLL.dll
+C:\Users\ideapad\source\repos\LibraryMS.BLL\bin\Debug\LibraryMS.BLL.pdb
+C:\Users\ideapad\source\repos\LibraryMS.BLL\bin\Debug\LibraryMS.DAL.dll
+C:\Users\ideapad\source\repos\LibraryMS.BLL\bin\Debug\LibraryMS.Entity.dll
+C:\Users\ideapad\source\repos\LibraryMS.BLL\bin\Debug\LibraryMS.DAL.pdb
+C:\Users\ideapad\source\repos\LibraryMS.BLL\bin\Debug\LibraryMS.Entity.pdb
+C:\Users\ideapad\source\repos\LibraryMS.BLL\obj\Debug\LibraryMS.BLL.csprojAssemblyReference.cache
+C:\Users\ideapad\source\repos\LibraryMS.BLL\obj\Debug\LibraryMS.BLL.csproj.CopyComplete
+C:\Users\ideapad\source\repos\LibraryMS.BLL\obj\Debug\LibraryMS.BLL.dll
+C:\Users\ideapad\source\repos\LibraryMS.BLL\obj\Debug\LibraryMS.BLL.pdb
+C:\Users\ideapad\source\repos\LibraryMS.BLL\bin\Debug\LibraryMS.Exception.dll
+C:\Users\ideapad\source\repos\LibraryMS.BLL\bin\Debug\LibraryMS.Exception.pdb
+C:\Users\ideapad\source\repos\LibraryMS.BLL\obj\Debug\LibraryMS.BLL.csproj.CoreCompileInputs.cache
+C:\Users\ideapad\Desktop\Team 1 Projects\Parallel Projects\Sanoj C R\Console\Console Project\LibraryMS.BLL\bin\Debug\LibraryMS.BLL.dll
+C:\Users\ideapad\Desktop\Team 1 Projects\Parallel Projects\Sanoj C R\Console\Console Project\LibraryMS.BLL\bin\Debug\LibraryMS.BLL.pdb
+C:\Users\ideapad\Desktop\Team 1 Projects\Parallel Projects\Sanoj C R\Console\Console Project\LibraryMS.BLL\bin\Debug\LibraryMS.DAL.dll
+C:\Users\ideapad\Desktop\Team 1 Projects\Parallel Projects\Sanoj C R\Console\Console Project\LibraryMS.BLL\bin\Debug\LibraryMS.Entity.dll
+C:\Users\ideapad\Desktop\Team 1 Projects\Parallel Projects\Sanoj C R\Console\Console Project\LibraryMS.BLL\bin\Debug\LibraryMS.Exception.dll
+C:\Users\ideapad\Desktop\Team 1 Projects\Parallel Projects\Sanoj C R\Console\Console Project\LibraryMS.BLL\bin\Debug\LibraryMS.DAL.pdb
+C:\Users\ideapad\Desktop\Team 1 Projects\Parallel Projects\Sanoj C R\Console\Console Project\LibraryMS.BLL\bin\Debug\LibraryMS.Entity.pdb
+C:\Users\ideapad\Desktop\Team 1 Projects\Parallel Projects\Sanoj C R\Console\Console Project\LibraryMS.BLL\bin\Debug\LibraryMS.Exception.pdb
+C:\Users\ideapad\Desktop\Team 1 Projects\Parallel Projects\Sanoj C R\Console\Console Project\LibraryMS.BLL\obj\Debug\LibraryMS.BLL.csprojAssemblyReference.cache
+C:\Users\ideapad\Desktop\Team 1 Projects\Parallel Projects\Sanoj C R\Console\Console Project\LibraryMS.BLL\obj\Debug\LibraryMS.BLL.csproj.CoreCompileInputs.cache
+C:\Users\ideapad\Desktop\Team 1 Projects\Parallel Projects\Sanoj C R\Console\Console Project\LibraryMS.BLL\obj\Debug\LibraryMS.BLL.csproj.CopyComplete
+C:\Users\ideapad\Desktop\Team 1 Projects\Parallel Projects\Sanoj C R\Console\Console Project\LibraryMS.BLL\obj\Debug\LibraryMS.BLL.dll
+C:\Users\ideapad\Desktop\Team 1 Projects\Parallel Projects\Sanoj C R\Console\Console Project\LibraryMS.BLL\obj\Debug\LibraryMS.BLL.pdb

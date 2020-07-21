@@ -1,0 +1,22 @@
+C:\Users\ideapad\source\repos\LibraryMS.DAL\bin\Debug\LibraryMS.DAL.dll
+C:\Users\ideapad\source\repos\LibraryMS.DAL\bin\Debug\LibraryMS.DAL.pdb
+C:\Users\ideapad\source\repos\LibraryMS.DAL\bin\Debug\LibraryMS.Entity.dll
+C:\Users\ideapad\source\repos\LibraryMS.DAL\bin\Debug\LibraryMS.Entity.pdb
+C:\Users\ideapad\source\repos\LibraryMS.DAL\obj\Debug\LibraryMS.DAL.csprojAssemblyReference.cache
+C:\Users\ideapad\source\repos\LibraryMS.DAL\obj\Debug\LibraryMS.DAL.csproj.CopyComplete
+C:\Users\ideapad\source\repos\LibraryMS.DAL\obj\Debug\LibraryMS.DAL.dll
+C:\Users\ideapad\source\repos\LibraryMS.DAL\obj\Debug\LibraryMS.DAL.pdb
+C:\Users\ideapad\source\repos\LibraryMS.DAL\bin\Debug\LibraryMS.Exception.dll
+C:\Users\ideapad\source\repos\LibraryMS.DAL\bin\Debug\LibraryMS.Exception.pdb
+C:\Users\ideapad\source\repos\LibraryMS.DAL\obj\Debug\LibraryMS.DAL.csproj.CoreCompileInputs.cache
+C:\Users\ideapad\Desktop\Team 1 Projects\Parallel Projects\Sanoj C R\Console\Console Project\LibraryMS.DAL\bin\Debug\LibraryMS.DAL.dll
+C:\Users\ideapad\Desktop\Team 1 Projects\Parallel Projects\Sanoj C R\Console\Console Project\LibraryMS.DAL\bin\Debug\LibraryMS.DAL.pdb
+C:\Users\ideapad\Desktop\Team 1 Projects\Parallel Projects\Sanoj C R\Console\Console Project\LibraryMS.DAL\bin\Debug\LibraryMS.Entity.dll
+C:\Users\ideapad\Desktop\Team 1 Projects\Parallel Projects\Sanoj C R\Console\Console Project\LibraryMS.DAL\bin\Debug\LibraryMS.Exception.dll
+C:\Users\ideapad\Desktop\Team 1 Projects\Parallel Projects\Sanoj C R\Console\Console Project\LibraryMS.DAL\bin\Debug\LibraryMS.Entity.pdb
+C:\Users\ideapad\Desktop\Team 1 Projects\Parallel Projects\Sanoj C R\Console\Console Project\LibraryMS.DAL\bin\Debug\LibraryMS.Exception.pdb
+C:\Users\ideapad\Desktop\Team 1 Projects\Parallel Projects\Sanoj C R\Console\Console Project\LibraryMS.DAL\obj\Debug\LibraryMS.DAL.csprojAssemblyReference.cache
+C:\Users\ideapad\Desktop\Team 1 Projects\Parallel Projects\Sanoj C R\Console\Console Project\LibraryMS.DAL\obj\Debug\LibraryMS.DAL.csproj.CoreCompileInputs.cache
+C:\Users\ideapad\Desktop\Team 1 Projects\Parallel Projects\Sanoj C R\Console\Console Project\LibraryMS.DAL\obj\Debug\LibraryMS.DAL.csproj.CopyComplete
+C:\Users\ideapad\Desktop\Team 1 Projects\Parallel Projects\Sanoj C R\Console\Console Project\LibraryMS.DAL\obj\Debug\LibraryMS.DAL.dll
+C:\Users\ideapad\Desktop\Team 1 Projects\Parallel Projects\Sanoj C R\Console\Console Project\LibraryMS.DAL\obj\Debug\LibraryMS.DAL.pdb
